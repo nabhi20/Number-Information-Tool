@@ -1,6 +1,6 @@
 # Number-Information-Tool
 A Python CLI tool with one-time animated banner, colorful terminal UI, mobile number validation, API lookup, and formatted JSON results. Designed for cybersecurity demonstrations and smooth user interaction.
-Here is a cleaner, professional, well-structured README.md written in proper English:
+Here is a cleaner, professional,
 
 
 ---

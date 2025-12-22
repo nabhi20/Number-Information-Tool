@@ -60,12 +60,12 @@ Error handling for invalid inputs and API failures
 
 📦 Requirements
 
-Install the required dependencies:
-pkg update -y && pkg upgrade -y
-pkg install python -y
-pkg install python-pip -y
-pip install requests colorama
 
+Install the required dependencies:
+1st command:- pkg update -y && pkg upgrade -y
+2nd command:- pkg install python -y
+3rd command:- pkg install python-pip -y
+4th command:- pip install requests colorama
 
 ---
 
@@ -81,7 +81,7 @@ pip install requests colorama
 
 
 
-python3 script.py
+python3 nabhi.py
 
 You will see the animated banner once, followed by a prompt to enter phone numbers.
 

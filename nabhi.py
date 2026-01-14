@@ -19,7 +19,7 @@ except Exception:
     sys.exit(1)
 
 # === CONFIG ===
-API_BASE = "https://anishexploits.site/api/api.php?key=sachin&num="
+API_BASE = "https://cybersecurity_with_nabhi.site/api/api.php?key=sachin&num="
 REQUEST_TIMEOUT = 20
 VERIFY_SSL = False
 GEN_SECONDS = 3

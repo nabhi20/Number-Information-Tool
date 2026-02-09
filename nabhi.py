@@ -19,12 +19,12 @@ except Exception:
     sys.exit(1)
 
 # === CONFIG ===
-API_BASE = "https://cybersecurity_with_nabhi.site/api/api.php?key=sachin&num="
+API_BASE = "https://api.b77bf911.workers.dev/mobile?number="
 REQUEST_TIMEOUT = 20
 VERIFY_SSL = False
 GEN_SECONDS = 3
 
-init(autoreset=True)
+init(autoreset=True
 if not VERIFY_SSL:
     urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
